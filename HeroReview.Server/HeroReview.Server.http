@@ -1,6 +1,0 @@
-@HeroReview.Server_HostAddress = http://localhost:5073
-
-GET {{HeroReview.Server_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
