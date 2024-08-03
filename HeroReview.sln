@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroReview.Server", "HeroReview.Server\HeroReview.Server.csproj", "{B39B9DDD-4B2D-4DFA-85F4-A1A2DBBB5241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39B9DDD-4B2D-4DFA-85F4-A1A2DBBB5241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39B9DDD-4B2D-4DFA-85F4-A1A2DBBB5241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39B9DDD-4B2D-4DFA-85F4-A1A2DBBB5241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39B9DDD-4B2D-4DFA-85F4-A1A2DBBB5241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF0D86B0-6ABC-461B-8836-9E57E6B8DE7A}
+	EndGlobalSection
+EndGlobal
